@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+D:\Workspace\my_app\Task_List_Done\.metadata\.plugins\org.eclipse.jdt.core
+725555719.index
+1696264553.index
+1865797976.index
